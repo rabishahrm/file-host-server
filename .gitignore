@@ -1,0 +1,23 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Uploaded files
+backend/uploads/
+
+# Node
+frontend/node_modules/
+
+# Build
+frontend/dist/
+
+# Environment files
+.env
+.env.*
+
+# macOS
+.DS_Storefrontend/old/
+backend/*.txt
+backend/*.save
+frontend-old/
