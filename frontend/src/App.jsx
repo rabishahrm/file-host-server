@@ -1,7 +1,9 @@
 import { useEffect, useMemo, useState } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:8000";
+const API_URL = "https://file-host-server-nwol.onrender.com";
+
+
 
 const TEXT_EXTENSIONS = [
   "txt",
